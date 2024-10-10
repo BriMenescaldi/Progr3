@@ -1,6 +1,6 @@
 ## Programación III
 
-Vemos en la carpeta algoritmo-pathfinding, siendo un buscador de camino en Python;
+Vemos en la carpeta algoritmo-pathfinding, teniendo un buscador de camino en Python;
 siendo los algoritmos a implementar: 
  - Depth First Search (DFS).
  - Breadth First Search (BFS).
